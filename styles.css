@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: #dbdcc4;
+}
+  
+h1 {
+    font-size: 5rem;
+    color: #6cca3e;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+}
+
+
+.animation{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+footer{
+    font-family: sans-serif;
+    color: #4dd907;
+    margin-top: 7%;
+    font-size: 2rem;
+}
+
+.bet{
+
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  font-size: 50px;
+  border-radius: 5%;
+  font-family: cursive;
+  color: #e10a0a;
+}
